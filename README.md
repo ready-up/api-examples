@@ -1,3 +1,5 @@
-# ReadyUp Data API
+# ReadyUp Data API Examples
 
-TODO - a bunch of information about the purpose of this repository & how to get info out of it.
+A collection of examples of how to interact with the ReadyUp Data API.
+
+Currently there are only examples for Python - which you can find the `python` folder.
