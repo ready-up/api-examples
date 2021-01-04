@@ -1,17 +1,19 @@
 [tool.poetry]
-name = "list-events"
+name = "create-events"
 version = "0.1.0"
-description = "List events in ReadyUp"
+description = "Examples of how to use the ReadyUp DataAPI"
 authors = [
    "ReadyUp Support <support@readyup.com>"
 ]
 
 [tool.poetry.scripts]
+create-events = "create_events:create"
 list-events = "list_events:list"
 
 [tool.poetry.dependencies]
 python = "^3.7"
 requests = "^2.25.0"
+click = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 
