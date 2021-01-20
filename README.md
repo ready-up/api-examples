@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="ReadyUp logo" src="https://raw.githubusercontent.com/ready-up/api-examples/master/readyup-logo-api.png" width="400px" />
+  <img alt="ReadyUp logo" src="https://readyup.com/app/uploads/2021/01/readyup-logo-api.png" width="400px" />
 </div>
 # ReadyUp API Examples
 
