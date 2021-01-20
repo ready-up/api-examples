@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "create-events"
 version = "0.1.0"
-description = "Examples of how to use the ReadyUp DataAPI"
+description = "Examples of how to use the ReadyUp API"
 authors = [
    "ReadyUp Support <support@readyup.com>"
 ]

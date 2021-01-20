@@ -6,11 +6,13 @@ The example makes use of Python 3.7+ with the [Poetry](https://python-poetry.org
 poetry install
 ```
 
-All examples require a API Token for your organization.  That token can be obtained through the ReadyUp Admin UI.
+_All examples require an API Token for your organization._
+
+Details about how to acquire an API Token can be found in our [quick start guide](https://web-dev.readyup.engineering/developer/documentation/#section/Quickstart-Guide)
 
 ## List Events
 
-One of the simplest examples of using ReadyUp's DataAPI is listing the events of your organization.  The code is in `list_events.py` and it can be run like:
+One of the simplest examples of using the ReadyUp API is listing the events of your organization.  The code is in `list_events.py` and it can be run like:
 
 ```bash
 READYUP_TOKEN=[token] poetry run list-events
