@@ -10,6 +10,6 @@
 
 <p>&nbsp;</p>
 
-**This repository is a collection of code examples for interact with the ReadyUp API.**
+**This repository is a collection of code examples for interacting with the ReadyUp API.**
 
 Currently there are only examples for Python - which you can find in the `python` folder.
