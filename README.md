@@ -1,15 +1,27 @@
-<div align="center">
+<div align="center" style="margin-bottom: 2em">
   <img alt="ReadyUp logo" src="https://readyup.com/app/uploads/2021/01/readyup-logo-api.png" width="400px" />
   <div>
     <a href="https://web-dev.readyup.engineering/developer/documentation/#section/Quickstart-Guide"><img src="https://i.imgur.com/au0F8UW.png" width="150px"/></a>
     <a href="https://web-dev.readyup.engineering/developer/documentation/"><img src="https://i.imgur.com/jNPijkZ.png" width="150px"/></a>
     <a href="https://support.readyup.com"><img src="https://i.imgur.com/V2v0qts.png" width="150px"/></a>
   </div>
-  <em>The ReadyUp API allows you to programmatically automate, manage, and distribute your gaming and esports events across all your owned and operated channels, communities and partners</em>
 </div>
 
-<p>&nbsp;</p>
 
-**This repository is a collection of code examples for interacting with the ReadyUp API.**
+ReadyUp API
+===========
 
-Currently there are only examples for Python - which you can find in the `python` folder.
+The [ReadyUp](https://readyup.com/) API allows you to programmatically automate, manage, and distribute your gaming and esports events across all your owned and operated channels, communities and partners.  Further information can be found in our [developer portal](https://web-dev.readyup.engineering/developer/).
+
+Getting Started
+---------------
+
+ * [API Documentation](https://web-dev.readyup.engineering/developer/documentation/) which includes steps on obtaining an access token
+ * [Python Examples](./python)
+
+Stay in Contact
+---------------
+
+We really appreciate feature requests, sample requests and bug reports. Please use our github [issue tracker](https://github.com/ready-up/api-examples/issues) for reporting them.
+
+For additional information and support please visit out our [support portal](https://support.readyup.com/hc/en-us).
