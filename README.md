@@ -11,12 +11,12 @@
 ReadyUp API
 ===========
 
-The [ReadyUp](https://readyup.com/) API allows you to programmatically automate, manage, and distribute your gaming and esports events across all your owned and operated channels, communities and partners.  Further information can be found in our [developer portal](https://web-dev.readyup.engineering/developer/).
+The [ReadyUp](https://readyup.com/) API allows you to programmatically automate, manage, and distribute your gaming and esports events across all your owned and operated channels, communities and partners.  Further information can be found in our [developer portal](https://readyup.com/developer/).
 
 Getting Started
 ---------------
 
- * [API Documentation](https://web-dev.readyup.engineering/developer/documentation/) which includes steps on obtaining an access token
+ * [API Documentation](https://readyup.com/developer/documentation//) which includes steps on obtaining an access token
  * [Python Examples](./python)
 
 Stay in Contact
