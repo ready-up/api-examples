@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom: 2em">
   <img alt="ReadyUp logo" src="https://readyup.com/app/uploads/2021/01/readyup-logo-api.png" width="400px" />
   <div>
-    <a href="https://web-dev.readyup.engineering/developer/documentation/#section/Quickstart-Guide"><img src="https://i.imgur.com/au0F8UW.png" width="150px"/></a>
-    <a href="https://web-dev.readyup.engineering/developer/documentation/"><img src="https://i.imgur.com/jNPijkZ.png" width="150px"/></a>
+    <a href="https://readyup.com/developer/documentation/#section/Quickstart-Guide"><img src="https://i.imgur.com/au0F8UW.png" width="150px"/></a>
+    <a href="https://readyup.com/developer/documentation/"><img src="https://i.imgur.com/jNPijkZ.png" width="150px"/></a>
     <a href="https://support.readyup.com"><img src="https://i.imgur.com/V2v0qts.png" width="150px"/></a>
   </div>
 </div>
